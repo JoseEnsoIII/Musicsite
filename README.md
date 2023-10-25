@@ -6,7 +6,7 @@ This app provides a basic implementation of a music streaming service that inclu
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/username/repo-name.git`
+1. Clone this repository: `git clone git@github.com:JoseEnsoIII/Musicsite.git`
 2. Navigate to the project directory: `cd repo-name`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
