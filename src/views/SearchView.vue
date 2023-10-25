@@ -18,39 +18,39 @@ import CategorySelect from "../components/CategorySelect.vue";
     >
       <CategorySelect
         category="Podcasts 🎙️"
-        image="../../public/images/homecard/lonely.png"
+        image="/images/homecard/lonely.png"
       />
       <CategorySelect
         category="Work Music 🎧"
-        image="../../public/images/homecard/work.png"
+        image="/images/homecard/work.png"
       />
       <CategorySelect
         category="Classic Music 🎹"
-        image="../../public/images/homecard/classic.png"
+        image="/images/homecard/classic.png"
       />
       <CategorySelect
         category="Rock 🤘"
-        image="../../public/images/homecard/rock.png"
+        image="/images/homecard/rock.png"
       />
       <CategorySelect
         category="Party 🎉"
-        image="../../public/images/homecard/party.png"
+        image="/images/homecard/party.png"
       />
       <CategorySelect
         category="Sports 🏃"
-        image="../../public/images/homecard/sports.png"
+        image="/images/homecard/sports.png"
       />
       <CategorySelect
         category="Movie 🎬"
-        image="../../public/images/homecard/film.png"
+        image="/images/homecard/film.png"
       />
       <CategorySelect
         category="Travel 🚐"
-        image="../../public/images/homecard/travel.png"
+        image="/images/homecard/travel.png"
       />
       <CategorySelect
         category="Nature 🌲"
-        image="../../public/images/homecard/nature.png"
+        image="/images/homecard/nature.png"
       />
     </div>
   </div>

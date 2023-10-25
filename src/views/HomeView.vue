@@ -15,30 +15,30 @@ import HomeCard from "../components/HomeCard.vue";
 
     <div class="flex items-center">
       <HomeCard
-        image="../../public/images/homecard/lonely.png"
+        image="/images/homecard/lonely.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
-        image="../../public/images/homecard/classic.png"
+        image="/images/homecard/classic.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="md:block hidden"
-        image="../../public/images/homecard/party.png"
+        image="/images/homecard/party.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="lg:block hidden"
-        image="../../public/images/homecard/rock.png"
+        image="/images/homecard/rock.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="xl:block hidden"
-        image="../../public/images/homecard/work.png"
+        image="/images/homecard/work.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
@@ -56,30 +56,30 @@ import HomeCard from "../components/HomeCard.vue";
 
     <div class="flex items-center">
       <HomeCard
-        image="../../public/images/homecard/work.png"
+        image="/images/homecard/work.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
-        image="../../public/images/homecard/sports.png"
+        image="/images/homecard/sports.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="md:block hidden"
-        image="../../public/images/homecard/nature.png"
+        image="/images/homecard/nature.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="lg:block hidden"
-        image="../../public/images/homecard/film.png"
+        image="/images/homecard/film.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="xl:block hidden"
-        image="../../public/images/homecard/work.png"
+        image="/images/homecard/work.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
@@ -97,30 +97,30 @@ import HomeCard from "../components/HomeCard.vue";
 
     <div class="flex items-center">
       <HomeCard
-        image="../../public/images/homecard/party.png"
+        image="/images/homecard/party.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
-        image="../../public/images/homecard/work.png"
+        image="/images/homecard/work.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="md:block hidden"
-        image="../../public/images/homecard/rock.png"
+        image="/images/homecard/rock.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="lg:block hidden"
-        image="../../public/images/homecard/travel.png"
+        image="/images/homecard/travel.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
       <HomeCard
         class="xl:block hidden"
-        image="../../public/images/homecard/film.png"
+        image="/images/homecard/film.png"
         title="Title is here"
         subTitle="Subtitle is here"
       />
